@@ -2,7 +2,7 @@
 title: "Pie Chart"
 output: html_document
 ---
-
+Hello,
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library("ggplot2")
